@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="page_1" ID="bb964ca7-590e-4e2d-b7fa-a03fd2e0108a" Version="2.2.1.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="page_1/page_1.png" />
+      <FilePathData Path="page_1/page_1_001_001.png" />
+      <FilePathData Path="page_1/page_1_001_002.png" />
+      <FilePathData Path="page_1/page_1_001_003.png" />
+      <FilePathData Path="page_1/page_1_001_004.png" />
+      <FilePathData Path="page_1/page_1_002_001.png" />
+      <FilePathData Path="page_1/page_1_002_002.png" />
+      <FilePathData Path="page_1/page_1_002_003.png" />
+      <FilePathData Path="page_1/page_1_002_004.png" />
+      <FilePathData Path="page_1/page_1_003_001.png" />
+      <FilePathData Path="page_1/page_1_003_002.png" />
+      <FilePathData Path="page_1/page_1_003_003.png" />
+      <FilePathData Path="page_1/page_1_003_004.png" />
+      <FilePathData Path="page_1/page_1_004_001.png" />
+      <FilePathData Path="page_1/page_1_004_002.png" />
+      <FilePathData Path="page_1/page_1_004_003.png" />
+      <FilePathData Path="page_1/page_1_004_004.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

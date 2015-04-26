@@ -1,0 +1,58 @@
+<Solution>
+  <PropertyGroup Name="yitu_game" Version="2.2.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="FirstPageScene.csd" Type="Scene" />
+        <Image Name="meinv.jpg" />
+        <Image Name="login.jpg" />
+        <Project Name="LoginScene.csd" Type="Scene" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="bg_main.jpg" />
+        <Project Name="Anim_show_page.csd" Type="Node" />
+        <Project Name="lay_diffcult.csd" Type="Layer" />
+        <PlistImageFolder PListFile="page_1.plist" Name=".page_1_PList.Dir">
+          <PlistImageFile Name="page_1_page_1.png" Key="page_1/page_1.png" />
+          <PlistImageFile Name="page_1_page_1_001_001.png" Key="page_1/page_1_001_001.png" />
+          <PlistImageFile Name="page_1_page_1_001_002.png" Key="page_1/page_1_001_002.png" />
+          <PlistImageFile Name="page_1_page_1_001_003.png" Key="page_1/page_1_001_003.png" />
+          <PlistImageFile Name="page_1_page_1_001_004.png" Key="page_1/page_1_001_004.png" />
+          <PlistImageFile Name="page_1_page_1_002_001.png" Key="page_1/page_1_002_001.png" />
+          <PlistImageFile Name="page_1_page_1_002_002.png" Key="page_1/page_1_002_002.png" />
+          <PlistImageFile Name="page_1_page_1_002_003.png" Key="page_1/page_1_002_003.png" />
+          <PlistImageFile Name="page_1_page_1_002_004.png" Key="page_1/page_1_002_004.png" />
+          <PlistImageFile Name="page_1_page_1_003_001.png" Key="page_1/page_1_003_001.png" />
+          <PlistImageFile Name="page_1_page_1_003_002.png" Key="page_1/page_1_003_002.png" />
+          <PlistImageFile Name="page_1_page_1_003_003.png" Key="page_1/page_1_003_003.png" />
+          <PlistImageFile Name="page_1_page_1_003_004.png" Key="page_1/page_1_003_004.png" />
+          <PlistImageFile Name="page_1_page_1_004_001.png" Key="page_1/page_1_004_001.png" />
+          <PlistImageFile Name="page_1_page_1_004_002.png" Key="page_1/page_1_004_002.png" />
+          <PlistImageFile Name="page_1_page_1_004_003.png" Key="page_1/page_1_004_003.png" />
+          <PlistImageFile Name="page_1_page_1_004_004.png" Key="page_1/page_1_004_004.png" />
+        </PlistImageFolder>
+        <Project Name="SelectScene.csd" Type="Scene" />
+        <Project Name="lay_item_4.csd" Type="Layer" />
+        <PlistImageFolder PListFile="select_imgs.plist" Name=".select_imgs_PList.Dir">
+          <PlistImageFile Name="img_s_img_1.png" Key="img_s/img_1.png" />
+          <PlistImageFile Name="img_s_img_10.jpg" Key="img_s/img_10.jpg" />
+          <PlistImageFile Name="img_s_img_11.jpg" Key="img_s/img_11.jpg" />
+          <PlistImageFile Name="img_s_img_12.jpg" Key="img_s/img_12.jpg" />
+          <PlistImageFile Name="img_s_img_13.jpg" Key="img_s/img_13.jpg" />
+          <PlistImageFile Name="img_s_img_14.jpg" Key="img_s/img_14.jpg" />
+          <PlistImageFile Name="img_s_img_15.jpg" Key="img_s/img_15.jpg" />
+          <PlistImageFile Name="img_s_img_16.jpg" Key="img_s/img_16.jpg" />
+          <PlistImageFile Name="img_s_img_17.jpg" Key="img_s/img_17.jpg" />
+          <PlistImageFile Name="img_s_img_18.jpg" Key="img_s/img_18.jpg" />
+          <PlistImageFile Name="img_s_img_2.jpg" Key="img_s/img_2.jpg" />
+          <PlistImageFile Name="img_s_img_3.jpg" Key="img_s/img_3.jpg" />
+          <PlistImageFile Name="img_s_img_4.jpg" Key="img_s/img_4.jpg" />
+          <PlistImageFile Name="img_s_img_5.jpg" Key="img_s/img_5.jpg" />
+          <PlistImageFile Name="img_s_img_6.jpg" Key="img_s/img_6.jpg" />
+          <PlistImageFile Name="img_s_img_7.jpg" Key="img_s/img_7.jpg" />
+          <PlistImageFile Name="img_s_img_8.jpg" Key="img_s/img_8.jpg" />
+          <PlistImageFile Name="img_s_img_9.jpg" Key="img_s/img_9.jpg" />
+        </PlistImageFolder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="select_imgs" ID="93752895-1328-4ed6-b782-76d5b7acf67c" Version="2.2.1.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="img_s/img_1.png" />
+      <FilePathData Path="img_s/img_10.jpg" />
+      <FilePathData Path="img_s/img_11.jpg" />
+      <FilePathData Path="img_s/img_12.jpg" />
+      <FilePathData Path="img_s/img_13.jpg" />
+      <FilePathData Path="img_s/img_14.jpg" />
+      <FilePathData Path="img_s/img_15.jpg" />
+      <FilePathData Path="img_s/img_16.jpg" />
+      <FilePathData Path="img_s/img_17.jpg" />
+      <FilePathData Path="img_s/img_18.jpg" />
+      <FilePathData Path="img_s/img_2.jpg" />
+      <FilePathData Path="img_s/img_3.jpg" />
+      <FilePathData Path="img_s/img_4.jpg" />
+      <FilePathData Path="img_s/img_5.jpg" />
+      <FilePathData Path="img_s/img_6.jpg" />
+      <FilePathData Path="img_s/img_7.jpg" />
+      <FilePathData Path="img_s/img_8.jpg" />
+      <FilePathData Path="img_s/img_9.jpg" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

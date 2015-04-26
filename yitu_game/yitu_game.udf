@@ -1,0 +1,33 @@
+<UserData>
+  <OpenedDocuments>
+    <FilePathData Path="MainScene.csd" />
+  </OpenedDocuments>
+  <ActiveDocument Path="MainScene.csd" />
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.yitugame" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="yitu_game iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="Android" />
+        <PublishSetting Value="VS" />
+        <FrameworkVersion Value="cocos2d-x-3.5" />
+        <IsDebugKeystore Value="True" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="SelectScene.csd" />
+          <FilePathData Path="lay_item_4.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="lay_item_4.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

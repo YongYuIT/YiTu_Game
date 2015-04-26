@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>page_1/page_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{150,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,148}</string>
+			</dict>
+			<key>page_1/page_1_001_001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,0},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_001_002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{263,0},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_001_003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{376,0},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_001_004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{489,0},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_002_001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{602,0},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_002_002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,0},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_002_003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,0},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_002_004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,112},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_003_001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,148},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_003_002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{263,112},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_003_003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{376,112},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_003_004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{489,112},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_004_001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{602,112},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_004_002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,112},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_004_003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,112},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>page_1/page_1_004_004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,224},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>page_1.png</string>
+			<key>realTextureFileName</key>
+			<string>page_1.png</string>
+			<key>size</key>
+			<string>{941,337}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>941</integer>
+			<key>height</key>
+			<integer>337</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,29 @@
+<Solution>
+  <PropertyGroup Name="make_hetu" Version="2.2.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="page_1">
+          <Image Name="page_1.png" />
+          <Image Name="page_1_001_001.png" />
+          <Image Name="page_1_001_002.png" />
+          <Image Name="page_1_001_003.png" />
+          <Image Name="page_1_001_004.png" />
+          <Image Name="page_1_002_001.png" />
+          <Image Name="page_1_002_002.png" />
+          <Image Name="page_1_002_003.png" />
+          <Image Name="page_1_002_004.png" />
+          <Image Name="page_1_003_001.png" />
+          <Image Name="page_1_003_002.png" />
+          <Image Name="page_1_003_003.png" />
+          <Image Name="page_1_003_004.png" />
+          <Image Name="page_1_004_001.png" />
+          <Image Name="page_1_004_002.png" />
+          <Image Name="page_1_004_003.png" />
+          <Image Name="page_1_004_004.png" />
+        </Folder>
+        <PlistInfo Name="page_1.csi" Type="Plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

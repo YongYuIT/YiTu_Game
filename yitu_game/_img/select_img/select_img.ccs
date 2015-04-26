@@ -1,0 +1,30 @@
+<Solution>
+  <PropertyGroup Name="select_img" Version="2.2.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistInfo Name="select_imgs.csi" Type="Plist" />
+        <Folder Name="img_s">
+          <Image Name="img_1.png" />
+          <Image Name="img_10.jpg" />
+          <Image Name="img_11.jpg" />
+          <Image Name="img_12.jpg" />
+          <Image Name="img_13.jpg" />
+          <Image Name="img_14.jpg" />
+          <Image Name="img_15.jpg" />
+          <Image Name="img_16.jpg" />
+          <Image Name="img_17.jpg" />
+          <Image Name="img_18.jpg" />
+          <Image Name="img_2.jpg" />
+          <Image Name="img_3.jpg" />
+          <Image Name="img_4.jpg" />
+          <Image Name="img_5.jpg" />
+          <Image Name="img_6.jpg" />
+          <Image Name="img_7.jpg" />
+          <Image Name="img_8.jpg" />
+          <Image Name="img_9.jpg" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
